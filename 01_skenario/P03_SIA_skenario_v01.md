@@ -46,6 +46,7 @@ SIA-UC03 «include» SIA-UC04
 Alasan: Validasi KRS menjadi bagian dari Pengajuan KRS.
 
 <!-- Relasi Extend -->
+SIA-UC05 «extend» SIA-UC03
 Extension point: Bukti pengajuan tersedia.
 Kondisi: [mahasiswa memilih cetak].
 Alasan: pengajuan tetap berhasil tanpa pencetakan.
